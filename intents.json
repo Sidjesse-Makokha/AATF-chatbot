@@ -1,0 +1,75 @@
+{
+  "intents": [
+
+    {
+      "tag": "info",
+      "patterns": [
+        "What is the African Agricultural Technology Foundation?",
+        "What is AATF?",
+        "What does AATF do?"
+      ],
+      "responses": [
+        "AATF is a not-for-profit organisation dedicated to increasing the productivity of resource-poor farmers in Sub-Saharan Africa. Its mission is to improve food security and reduce poverty by providing smallholders with greater access to improved farming technologies and know-how.",
+        "AATF facilitates and promotes public/private partnerships whose purpose is to ensure that African farmers have access to agricultural technologies that improve their productivity"
+      ]
+    },
+    {
+      "tag": "business",
+      "patterns": [
+        "What is AATF’s core business?",
+        "What is AATF’s business?",
+        "What business does AATF do?",
+        "What business does AATF engage in?"
+      ],
+      "responses": [
+        "The Foundation's core business is to link resource-poor smallholder farmers with the agricultural technologies they need to increase the productivity and profitability of their farming operations. "
+      ]
+    },
+    {
+      "tag": "Origin",
+      "patterns": [
+        "How did AATF come into being?",
+        "How did AATF start?",
+        "When did AATF start?"
+      ],
+      "responses": [
+        "AATF resulted from an extensive two-year consultative process, supported by The Rockefeller Foundation, which began in 2000 and involved several African, European and American stakeholders concerned with finding effective ways of bolstering food security in Sub-Saharan Africa."
+      ]
+    },
+    {
+      "tag": "Size",
+      "patterns": [
+        "What is the size of AATF?",
+        "How big is AATF?"
+      ],
+      "responses": [
+        "AATF is a small organisation currently made up of ten managers, recruited from various African countries, and about thirteen locally recruited support staff."
+      ]
+    },
+    {
+      "tag": "Investment",
+      "patterns": [
+        "Who are AATF’s main investors?",
+        "Who are AATF’s investors?",
+        "Who are AATF’s donors?"
+      ],
+      "responses": [
+        "The Rockefeller Foundation, the United States Agency for International Development (USAID) and the United Kingdom's Department for International Development (DFID) provided financial support for the design and start-up of AATF activities."
+      ]
+    },
+    {
+      "tag": "Unique",
+      "patterns": [
+        "What makes AATF unique?",
+        "What makes AATF special?",
+        "What makes AATF different?"
+      ],
+      "responses": [
+        "It provides a much-needed ’one-stop-shop for enabling access to proprietary technologies, knowledge and know-how",
+        "It serves as an honest broker in negotiating the royalty-free transfer of technologies held by advanced public and private research institutes in developed and developing countries",
+        "It works all along the product value chain, from basic research, through adaptive research and development, distribution, production and marketing",
+        "The Foundation uses its convening power to bring together diverse potential partners from the public and private sectors, and in so doing serves as a catalyst for innovations, reforms and the creation of agricultural markets"
+      ]
+    }
+  ]
+}
