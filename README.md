@@ -1,5 +1,6 @@
 # AATF-chatbot
-In CMD input
+In CMD, 
+input:
 $ git clone https://github.com/Sidjesse-Makokha/AATF-chatbot.git
 $ cd chatbot-deployment
 $ python -m venv venv
