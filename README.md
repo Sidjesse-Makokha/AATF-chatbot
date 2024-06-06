@@ -11,5 +11,6 @@ Run
 >>> import nltk
 >>> nltk.download('punkt')
 >>> quit()
-(venv) python train.py
-(venv) python chat.py
+(venv) python train.py // to train chatbot//
+(venv) python chat.py //To test cahtbot in cmd//
+Run app.py in IDE
