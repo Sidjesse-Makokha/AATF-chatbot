@@ -1,5 +1,37 @@
 {
   "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "salamu",
+      "patterns": [
+        "Sasa",
+        "Sema",
+        "Niambie",
+        "ukoje"
+      ],
+      "responses": [
+        "Poa :-)",
+        "Poa",
+        "Poa Sana",
+        "Niko Poa"
+      ]
+    },
 
     {
       "tag": "info",
@@ -37,6 +69,17 @@
       ]
     },
     {
+      "tag": "Leader",
+      "patterns": [
+        "Who is the head of AATF?",
+        "Who is the Excecutive Director of AATF?",
+        "Who is the ED of AATF?"
+      ],
+      "responses": [
+        "Dr Canisius Kanangire serves as the Excecutive Director of AATF."
+      ]
+    },
+    {
       "tag": "Size",
       "patterns": [
         "What is the size of AATF?",
@@ -65,7 +108,7 @@
         "What makes AATF different?"
       ],
       "responses": [
-        "It provides a much-needed ’one-stop-shop for enabling access to proprietary technologies, knowledge and know-how",
+        "It provides a much-needed one-stop-shop for enabling access to proprietary technologies, knowledge and know-how",
         "It serves as an honest broker in negotiating the royalty-free transfer of technologies held by advanced public and private research institutes in developed and developing countries",
         "It works all along the product value chain, from basic research, through adaptive research and development, distribution, production and marketing",
         "The Foundation uses its convening power to bring together diverse potential partners from the public and private sectors, and in so doing serves as a catalyst for innovations, reforms and the creation of agricultural markets"
